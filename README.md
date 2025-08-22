@@ -45,3 +45,5 @@ logs_archive_20240816_100648.tar.gz
     ```
 
 **Assignment from:** [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool) on [roadmap.sh](https://roadmap.sh/)
+
+**I also used:** [This repo](https://github.com/cheatsnake/bash-scripts-by-example)
