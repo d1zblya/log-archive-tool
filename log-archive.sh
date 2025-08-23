@@ -1,3 +1,5 @@
+#!/bin/bash
+
 LOG_DIR=$1
 TIMESTAMP=$(date '+%Y%m%d_%H%M%S')
 ARCHIVE_TO="/home/archives" 
